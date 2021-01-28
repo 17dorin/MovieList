@@ -11,3 +11,16 @@ C:\Users\17dor\Desktop\GC Slns\MovieList\MovieList\obj\Debug\netcoreapp3.1\Movie
 C:\Users\17dor\Desktop\GC Slns\MovieList\MovieList\obj\Debug\netcoreapp3.1\MovieList.dll
 C:\Users\17dor\Desktop\GC Slns\MovieList\MovieList\obj\Debug\netcoreapp3.1\MovieList.pdb
 C:\Users\17dor\Desktop\GC Slns\MovieList\MovieList\obj\Debug\netcoreapp3.1\MovieList.genruntimeconfig.cache
+C:\Users\Nick\Source\Repos\MovieList\bin\Debug\netcoreapp3.1\MovieList.exe
+C:\Users\Nick\Source\Repos\MovieList\bin\Debug\netcoreapp3.1\MovieList.deps.json
+C:\Users\Nick\Source\Repos\MovieList\bin\Debug\netcoreapp3.1\MovieList.runtimeconfig.json
+C:\Users\Nick\Source\Repos\MovieList\bin\Debug\netcoreapp3.1\MovieList.runtimeconfig.dev.json
+C:\Users\Nick\Source\Repos\MovieList\bin\Debug\netcoreapp3.1\MovieList.dll
+C:\Users\Nick\Source\Repos\MovieList\bin\Debug\netcoreapp3.1\MovieList.pdb
+C:\Users\Nick\Source\Repos\MovieList\obj\Debug\netcoreapp3.1\MovieList.csprojAssemblyReference.cache
+C:\Users\Nick\Source\Repos\MovieList\obj\Debug\netcoreapp3.1\MovieList.AssemblyInfoInputs.cache
+C:\Users\Nick\Source\Repos\MovieList\obj\Debug\netcoreapp3.1\MovieList.AssemblyInfo.cs
+C:\Users\Nick\Source\Repos\MovieList\obj\Debug\netcoreapp3.1\MovieList.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Source\Repos\MovieList\obj\Debug\netcoreapp3.1\MovieList.dll
+C:\Users\Nick\Source\Repos\MovieList\obj\Debug\netcoreapp3.1\MovieList.pdb
+C:\Users\Nick\Source\Repos\MovieList\obj\Debug\netcoreapp3.1\MovieList.genruntimeconfig.cache

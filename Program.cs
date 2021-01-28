@@ -78,6 +78,7 @@ namespace MovieList
             int categoryNumber;
             int.TryParse(input, out categoryNumber);
             string lowerInput = input.ToLower().Trim();
+            List<string> validMovies = new List<string>();
 
             //Check to make sure string isn't empty, throw exception otherwise
             if (!string.IsNullOrEmpty(input) && !string.IsNullOrWhiteSpace(input))
@@ -88,7 +89,7 @@ namespace MovieList
                     if (lowerInput.Equals(movie.Genre.ToLower()) ||  categoryNumber == movie.GenreNumber)
                     {
                         validCategory = true;
-                        Console.WriteLine(movie.Title);
+                        validMovies.Add(movie.Title);
                     }
 
                 }
@@ -96,6 +97,13 @@ namespace MovieList
                 if(!validCategory)
                 {
                     throw new Exception($"The category {input} was not found.");
+                }
+
+                validMovies.Sort();
+
+                foreach (string validMovie in validMovies)
+                {
+                    Console.WriteLine(validMovie);
                 }
 
             }
